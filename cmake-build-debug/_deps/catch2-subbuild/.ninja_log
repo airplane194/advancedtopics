@@ -1,0 +1,21 @@
+# ninja log v6
+0	3	1718738368541211203	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-mkdir	20613c84927e4cff
+0	3	1718738368541211203	/home/duc/CLionProjects/advancedtopics/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-mkdir	20613c84927e4cff
+3	4626	1718738373161216351	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-download	dbd2c88d543e03b4
+3	4626	1718738373161216351	/home/duc/CLionProjects/advancedtopics/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-download	dbd2c88d543e03b4
+4626	4632	1718738373165216357	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-update	d6c795011decab90
+4626	4632	1718738373165216357	/home/duc/CLionProjects/advancedtopics/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-update	d6c795011decab90
+4632	4634	1718738373173216370	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-patch	d0e3467e75ef5379
+4632	4634	1718738373173216370	/home/duc/CLionProjects/advancedtopics/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-patch	d0e3467e75ef5379
+4635	4637	1718738373173216370	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-configure	95d29d8164a8c61d
+4635	4637	1718738373173216370	/home/duc/CLionProjects/advancedtopics/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-configure	95d29d8164a8c61d
+4637	4639	1718738373177216376	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-build	c0d672562202bd90
+4637	4639	1718738373177216376	/home/duc/CLionProjects/advancedtopics/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-build	c0d672562202bd90
+4639	4642	1718738373177216376	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-install	5352f444b6e47b8
+4639	4642	1718738373177216376	/home/duc/CLionProjects/advancedtopics/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-install	5352f444b6e47b8
+4642	4644	1718738373181216381	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-test	ba7628ca76aeb08f
+4642	4644	1718738373181216381	/home/duc/CLionProjects/advancedtopics/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-test	ba7628ca76aeb08f
+4644	4647	1718738373185216388	CMakeFiles/catch2-populate-complete	ef25a71b6e57c0dd
+4644	4647	1718738373185216388	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-done	ef25a71b6e57c0dd
+4644	4647	1718738373185216388	/home/duc/CLionProjects/advancedtopics/cmake-build-debug/_deps/catch2-subbuild/CMakeFiles/catch2-populate-complete	ef25a71b6e57c0dd
+4644	4647	1718738373185216388	/home/duc/CLionProjects/advancedtopics/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-done	ef25a71b6e57c0dd
